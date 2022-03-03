@@ -1,4 +1,4 @@
-# ⛽️ Gas Stations (demo). Usng MapKit & CoreLocation.
+# ⛽️ Gas Stations (demo). Using MapKit & CoreLocation.
 
 Developed example inspired by the design [Car Refilling App](https://dribbble.com/shots/17058858-Car-Refilling-App?utm_source=Clipboard_Shot&utm_campaign=dlauretsky&utm_content=Car%20Refilling%20App&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=dlauretsky&utm_content=Car%20Refilling%20App&utm_medium=Social_Share) by [Dmitry Lauretsky](https://dribbble.com/dlauretsky) for Ronas IT | UI/UX Team. I take this opportunity to congratulate Dmitry Lauretsky for the excellent work.
 
